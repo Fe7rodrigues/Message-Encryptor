@@ -27,6 +27,9 @@ Para descriptografar uma mensagem, execute o seguinte comando:
 ```
 python3 file.py -d <encrypted_message>
 ```
+## Créditos
+
+Esse projeto foi criado por [Fernando Rodrigues](https://github.com/Fe7rodrigues).
 
 ## Licença
 
